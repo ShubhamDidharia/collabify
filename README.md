@@ -1,6 +1,5 @@
 <h1 align="center">✨ Slack Clone with Chat & Video Calling ✨</h1>
 
-![Demo App](/frontend/public/ss-app-front-page.png)
 
 Highlights:
 
